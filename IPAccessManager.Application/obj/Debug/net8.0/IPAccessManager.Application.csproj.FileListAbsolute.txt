@@ -1,0 +1,15 @@
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\bin\Debug\net8.0\IPAccessManager.Application.deps.json
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\bin\Debug\net8.0\IPAccessManager.Application.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\bin\Debug\net8.0\IPAccessManager.Application.pdb
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\bin\Debug\net8.0\IPAccessManager.Domain.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\bin\Debug\net8.0\IPAccessManager.Domain.pdb
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.csproj.AssemblyReference.cache
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.AssemblyInfoInputs.cache
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.AssemblyInfo.cs
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.csproj.CoreCompileInputs.cache
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccess.0173A5B5.Up2Date
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\refint\IPAccessManager.Application.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\IPAccessManager.Application.pdb
+C:\My projects\C#\IPAccessManager\IPAccessManager.Application\obj\Debug\net8.0\ref\IPAccessManager.Application.dll

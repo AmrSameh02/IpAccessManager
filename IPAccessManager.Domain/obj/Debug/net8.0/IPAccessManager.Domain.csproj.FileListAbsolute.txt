@@ -1,0 +1,11 @@
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\bin\Debug\net8.0\IPAccessManager.Domain.deps.json
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\bin\Debug\net8.0\IPAccessManager.Domain.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\bin\Debug\net8.0\IPAccessManager.Domain.pdb
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.AssemblyInfoInputs.cache
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.AssemblyInfo.cs
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.csproj.CoreCompileInputs.cache
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\refint\IPAccessManager.Domain.dll
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\IPAccessManager.Domain.pdb
+C:\My projects\C#\IPAccessManager\IPAccessManager.Domain\obj\Debug\net8.0\ref\IPAccessManager.Domain.dll
