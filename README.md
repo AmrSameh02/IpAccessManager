@@ -33,7 +33,7 @@ This project strictly adheres to **Clean Architecture** (Domain, Application, In
         cd IPAccessManager-API
 
 2. **Configure the API Key:**
-   Open `appsettings.json` in the API project and ensure the API key is set.
+   Open `appsettings.json` in the API project and ensure the API key is set. *(Note: A free key is currently left in the config for seamless testing and review purposes).*
 
         "IpApi": {
           "Key": "YOUR_API_KEY_HERE"
